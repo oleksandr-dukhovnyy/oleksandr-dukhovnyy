@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oleksandr-dukhovnyy)
 
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,ts,js,vite,webpack,sass,git,figma,html,css,github,vscode,react,express,nodejs,linux,supabase,bash,gulp,jest,jquery,md,pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,ts,js,vite,webpack,sass,git,figma,html,css,github,vscode,react,express,nodejs,md,bash,linux,supabase,gulp,jest,jquery,pug)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-dukhovnyy&layout=compact&size_weight=1&count_weight=0)
