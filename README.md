@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,ts,vite,webpack,vue,js,supabase,html,sass,css,figma,git,github,vscode,linux)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-dukhovnyy&layout=compact&size_weight=1&count_weight=0)
